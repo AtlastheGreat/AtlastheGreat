@@ -2,13 +2,13 @@ Hi there!
 
 🚀 About Me
 
-I'm an IT student. Always learning and working on new projects!
+I'm an IT student. Learning and working on new projects!
 
 🛠️ Technologies & Tools
 
-Languages: HTML, CSS, JavaScript, C
+Languages: HTML, CSS, C
 
-Databases: MySQL
+It dosnt matter how its done, only if its achieved.
 
 
 
